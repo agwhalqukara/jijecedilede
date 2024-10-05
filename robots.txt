@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://jijecedilede.pages.dev/sitemap.xml
